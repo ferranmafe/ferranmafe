@@ -6,9 +6,9 @@
 * 📌 Location: **Barcelona**
 * 📬 How to reach me: ferran.mafe@gmail.com
 
-<br>
+<!--br>
 
 <p align="center">
   <img alt="User Stats" src="https://github-readme-stats.vercel.app/api?username=ferranmafe&&show_icons=true" width="60.25%"/>
   <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferranmafe" width="25%"/>
-</p>
+</p-->
